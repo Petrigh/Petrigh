@@ -8,10 +8,8 @@
 
 ## Featured Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Petrigh&repo=Planta-de-Relleno-Automatico&theme=dark)](https://github.com/Petrigh/Planta-de-Relleno-Automatico)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=InfinioKneza&repo=RobotAutonomoUNLP&theme=dark)](https://github.com/InfinioKneza/RobotAutonomoUNLP)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Petrigh&repo=andino&theme=dark)](https://github.com/Petrigh/andino)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Petrigh&repo=laSala-inventory-management&theme=dark)](https://github.com/Petrigh/laSala-inventory-management)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Petrigh&repo=Planta-de-Relleno-Automatico&theme=dark)](https://github.com/Petrigh/Planta-de-Relleno-Automatico)
 
 ---
 
