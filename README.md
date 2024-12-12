@@ -1,20 +1,18 @@
-![Tadeo GitHub Banner](https://media.licdn.com/dms/image/v2/D4D16AQH7dv-fEABshA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1710081600556?e=1733356800&v=beta&t=DjAayyFAT46RfZcHEhhTamkbtzM89raogKcLHNXWd2w)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/lautaro-petrigh-3876b7232/)
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/tadeo-deluca/)
-
-# 👋 Hi, I’m Tadeo Deluca
-- 👀 I’m interested in **Data Engineer**
-- ☁️ I’m currently learning **Azure**  
+# 👋 Hi, I’m Lautaro Petrigh
+- 👀 I’m interested in **Robotics** 🤖
+- ☁️ I’m currently learning **Machine Learning** 🧠
 
 ---
 
 ## Featured Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TadeopCreator&repo=newvibe&theme=dark)](https://github.com/TadeopCreator/newvibe)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TadeopCreator&repo=portfolio-website&theme=dark)](https://github.com/TadeopCreator/portfolio-website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Petrigh&repo=Planta-de-Relleno-Automatico&theme=dark)](https://github.com/Petrigh/Planta-de-Relleno-Automatico)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Petrigh&repo=andino&theme=dark)](https://github.com/Petrigh/andino)
 
 ---
 
 ## Nerd Stats
 
-[![TadeopCreator's GitHub stats](https://github-readme-stats.vercel.app/api?username=TadeopCreator&show_icons=true&theme=dark&hide_rank=true)](https://github.com/TadeopCreator/github-readme-stats)
+[![TadeopCreator's GitHub stats](https://github-readme-stats.vercel.app/api?username=Petrigh&show_icons=true&theme=dark&hide_rank=true)](https://github.com/Petrigh/github-readme-stats)
