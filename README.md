@@ -8,7 +8,7 @@
 
 ## Featured Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Petrigh&repo=anidno&theme=dark)](https://github.com/Petrigh/andino)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Petrigh&repo=andino&theme=dark)](https://github.com/Petrigh/andino)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Petrigh&repo=Planta-de-Relleno-Automatico&theme=dark)](https://github.com/Petrigh/Planta-de-Relleno-Automatico)
 
 ---
