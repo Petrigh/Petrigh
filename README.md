@@ -16,3 +16,4 @@
 ## Stats
 
 ![Petrigh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Petrigh&show_icons=true&theme=dark&hide_rank=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Petrigh)](https://github.com/Petrigh/github-readme-stats)
