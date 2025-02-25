@@ -1,7 +1,7 @@
 # 👋 Hi, my name is Lautaro Petrigh
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/petrigh-lautaro)
 - 👀 I’m interested in **Robotics** 
-- 📚 I’m currently learning **Machine Learning**
+- 📚 I’m currently learning **Computer vision**
 
 
 ---
