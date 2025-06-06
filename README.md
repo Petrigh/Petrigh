@@ -47,8 +47,9 @@
     <td><strong>Frameworks</strong></td>
     <td>
       <img src="https://img.shields.io/badge/ROS2-%230d1117?style=flat-square&logo=ros" />
-      <img src="https://control.ros.org/humble/_static/logo_ros-controls.png" width="15"/><img src="https://img.shields.io/badge/Ros2__Control-%230d1117?style=flat-square" />
-       <img src="https://us1.discourse-cdn.com/flex022/uploads/ros/original/2X/6/6c818c96ecae6cc7d67081bb7748bc081224703c.png" width="18"/><img src="https://img.shields.io/badge/Nav2-%230d1117?style=flat-square" />
+      <sup><img src="https://control.ros.org/rolling/_static/logo_ros-controls.png" width="13" /></sup><img src="https://img.shields.io/badge/Ros2__Control-%230d1117?style=flat-square" />
+      <img src="https://micro.ros.org/img/logonav.png" width="20"/><img src="https://img.shields.io/badge/microROS-%230d1117?style=flat-square" />
+      <img src="https://us1.discourse-cdn.com/flex022/uploads/ros/original/2X/6/6c818c96ecae6cc7d67081bb7748bc081224703c.png" width="20"/><img src="https://img.shields.io/badge/Nav2-%230d1117?style=flat-square" />
       <img src="https://img.shields.io/badge/.NET-%230d1117?style=flat-square&logo=.net" />
       <img src="https://img.shields.io/badge/Angular-%230d1117?style=flat-square&logo=angular" />
       <img src="https://img.shields.io/badge/Tomcat-%230d1117?style=flat-square&logo=apachetomcat" />
@@ -86,7 +87,7 @@
     <td><strong>Version Control</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Git-%230d1117?style=flat-square&logo=git" />
-       <img src="https://1000logos.net/wp-content/uploads/2023/04/Visual-Studio-Logo-2019.png" width="20"/><img src="https://img.shields.io/badge/TFS-%230d1117?style=flat-square" />
+       <sup><img src="https://1000logos.net/wp-content/uploads/2023/04/Visual-Studio-Logo-2019.png" width="20"/></sup><img src="https://img.shields.io/badge/TFS-%230d1117?style=flat-square" />
     </td>
   </tr>
 </table>
